@@ -1,22 +1,21 @@
-manifest.json
 {
   "name": "SpaarOpSchema",
   "short_name": "SpaarOpSchema",
-  "description": "Persoonlijke app om mijn uitgaven en spaardoel bij te houden.",
+  "description": "Persoonlijke app om mijn spaardoel en maandelijkse uitgaven bij te houden.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f8fafc",
   "theme_color": "#047857",
-  "orientation": "portrait",
+  "lang": "nl",
   "icons": [
     {
-      "src": "./icons/icon-192.png",
+      "src": "./icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "./icons/icon-512.png",
+      "src": "./icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
