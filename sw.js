@@ -1,4 +1,3 @@
-sw.js
 const CACHE_NAME = "spaaropschema-v1";
 
 const APP_FILES = [
